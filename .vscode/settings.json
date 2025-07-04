@@ -1,0 +1,30 @@
+{
+  "cSpell.words": [
+    "alasmar",
+    "DESPLACEDS",
+    "displaceds",
+    "الأمن",
+    "الإجراءات",
+    "الإعلانات",
+    "الخروج",
+    "العمليات",
+    "المدير",
+    "المندوب",
+    "النازح",
+    "بريدك",
+    "تسجيل",
+    "تغيير",
+    "فلسطين",
+    "مسؤول",
+    "معروف",
+    "هاتف",
+    "هوية",
+    "يوجد"
+  ],
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  }
+}
